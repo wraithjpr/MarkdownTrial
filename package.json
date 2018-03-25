@@ -1,0 +1,15 @@
+{
+  "name": "markdowntrial",
+  "version": "1.0.0",
+  "description": "My trials of markdown, tools and editors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trial",
+    "markdown"
+  ],
+  "author": "James Wraith",
+  "license": "ISC"
+}
