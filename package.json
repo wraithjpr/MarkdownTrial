@@ -11,5 +11,8 @@
     "markdown"
   ],
   "author": "James Wraith",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "pen": "^2.0.0"
+  }
 }

@@ -2,4 +2,5 @@
 !logs/.gitkeep
 /tmp
 *.swp
+/node_modules
 
